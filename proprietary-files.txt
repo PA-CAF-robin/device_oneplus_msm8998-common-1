@@ -72,7 +72,7 @@ vendor/firmware/ipa_fws.mdt
 # NFC firmware
 vendor/lib/libpn553_fw.so
 
-# Perf - from Google Pixel 2 QPP2.190228.021
+# Perf - from Google Pixel 2 QPP1.190205.018.B4
 vendor/lib/libqti-perfd-client.so|08c3c3d419f4171ddf3b5809ec89ff8311c0af98
 vendor/lib64/libqti-perfd-client.so|3a2899e8aaa6cc1d853487da3859083d2a7f3801
 
